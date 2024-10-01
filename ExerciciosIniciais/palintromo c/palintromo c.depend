@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1582111804 source:d:\nova pasta\palintromo c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1582561506 source:e:\nova pasta\palintromo c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
